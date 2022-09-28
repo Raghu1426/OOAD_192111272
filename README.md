@@ -19,3 +19,12 @@
 (https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%209%20(E-BMS).docx)
 ## Experiment 10: Recruitment System
 (https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%2010%20(RS).docx)
+## Experiment 11: Conference Management System
+()
+## Experiment 12:Foreign Trading System
+()
+## Experiment 13:BPO Management System
+()
+## Experiment 14:
+## Experiment 15:Book Bank Management System
+()
