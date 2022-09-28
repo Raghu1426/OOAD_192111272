@@ -14,8 +14,8 @@
 ## Experiment 7: Credit Card Processing System
 (https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%207%20(%20CCPS).docx)
 ## Experiment 8: Software Personnel Management System
-()
+(https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%208%20(SPMS).docx)
 ## Experiment 9: E-Book Management System
-()
+(https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%209%20(E-BMS).docx)
 ## Experiment 10: Recruitment System
-()
+(https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%2010%20(RS).docx)
