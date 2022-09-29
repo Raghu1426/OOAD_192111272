@@ -20,12 +20,12 @@
 ## Experiment 10: Recruitment System
 (https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%2010%20(RS).docx)
 ## Experiment 11: Conference Management System
-()
+(https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%2011%20(CMS).docx)
 ## Experiment 12:Foreign Trading System
-()
+(https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%2012%20(FTS).docx)
 ## Experiment 13:BPO Management System
-()
+(https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%2013%20(BPOMS).docx)
 ## Experiment 14: E-Commerce System
-()
+(https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%2014%20(E-CS).docx)
 ## Experiment 15:Book Bank Management System
-()
+(https://github.com/Raghu1426/OOAD_192111272/blob/main/Experiment%2015%20(BBMS).docx)
